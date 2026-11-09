@@ -1,0 +1,9 @@
+{
+  "camera_index": 0,
+  "timeout_seconds": 4.0,
+  "alarm_enabled": true,
+  "show_landmarks": true,
+  "alarm_message": "Parpadea, parpadea, parpadea",
+  "sensitivity": 75,
+  "brightness": 100
+}

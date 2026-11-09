@@ -1,0 +1,6 @@
+# BlinkEye Tracker — dependencias (instalar en tu entorno conda)
+customtkinter>=5.2.0
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+numpy>=1.26
+pillow>=10.0
