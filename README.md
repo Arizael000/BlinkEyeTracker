@@ -68,4 +68,4 @@ blinkEye/
 
 ## Créditos
 
-Basado en la lógica de `parpadeo_multiple.py` (detección multi-rostro con MediaPipe Face Landmarker).
+Basado en la lógica de detección multi-rostro con MediaPipe Face Landmarker.
